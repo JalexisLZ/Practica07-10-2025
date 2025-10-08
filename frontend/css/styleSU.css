@@ -1,0 +1,9 @@
+body{
+    background-color: brown;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    color: white;
+}
